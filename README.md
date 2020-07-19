@@ -13,6 +13,7 @@ A web app built for FreeCodeCamp's Random Quote Machine challenge.
 ## Screenshots:
 
 ### Random Quote Machine main page:
-
+![FCC Random Quote Machine main page](https://github.com/KrisztinaPap/FCC_RandomQuoteMachine/blob/master/src/RandomQuoteMachine1.PNG "FCC Random Quote Machine main page")
 
 ### Tweet ready to be sent:
+![FCC Random Quote Machine Twitter window](https://github.com/KrisztinaPap/FCC_RandomQuoteMachine/blob/master/src/RandomQuoteMachine2.PNG "FCC Random Quote Machine Twitter window")
