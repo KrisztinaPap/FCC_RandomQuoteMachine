@@ -1,6 +1,9 @@
-# FCC_RandomQuoteMachine
+# FreeCodeCamp's Random Quote Machine Challenge
 
 A web app built for FreeCodeCamp's Random Quote Machine challenge.
+
+## Project Challenges:
+I built several random quote machines before I was able to pass all the FreeCodeCamp tests and beat this challenge. The versions I created using only vanilla JavaScript and React would not pass without rewriting parts using JQuery. In a previous build, I successfully added an API to pull quotes, but that site is no longer active, and I was not able to find a suitable replacement. (The only decent quote APIs I found at the time were behind paywalls.)
 
 ## Features:
 
@@ -8,7 +11,6 @@ A web app built for FreeCodeCamp's Random Quote Machine challenge.
 - Quotes are hard-coded in
 - 'New Tweet' button shows a random quote and author
 - 'Tweet' button creates a new Twitter message with the text "My new favourite quote:" and the curret quote and author, ready to be sent out by the user
-
 
 ## Screenshots:
 
