@@ -12,6 +12,14 @@ I built several random quote machines before I was able to pass all the FreeCode
 - 'New Tweet' button shows a random quote and author
 - 'Tweet' button creates a new Twitter message with the text "My new favourite quote:" and the curret quote and author, ready to be sent out by the user
 
+## References:
+
+[FreeCodeCamp tutorials and challenge](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
+
+[Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+[Aryan Jabbari's Random Quote Machine tutorial series](https://youtu.be/XnoTmO06OYo)
+
 ## Screenshots:
 
 ### Random Quote Machine main page:
